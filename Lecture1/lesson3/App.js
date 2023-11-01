@@ -14,4 +14,3 @@ const htmlBody = React.createElement("div", { id: "parent" }, [
 ),
 ]);
 root.render(htmlBody);
-
